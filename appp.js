@@ -104,7 +104,7 @@ products.forEach((product, index) => {
             if (!nameProducts.includes(productName)) {
                 cart.insertAdjacentHTML("beforeend", item);
                 quantityListener(cart, product);
-                difPrice(product, "arttır");
+                difPrice(product, "arwttır");
             }
         }
     });
